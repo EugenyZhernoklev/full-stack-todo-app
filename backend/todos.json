@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1759440155447,
+    "text": "Хлеб",
+    "completed": false
+  },
+  {
+    "id": 1759440159929,
+    "text": "Масло",
+    "completed": true
+  },
+  {
+    "id": 1759440164924,
+    "text": "Молоко",
+    "completed": false
+  }
+]
